@@ -24,7 +24,7 @@ Vision on
 
 100 token/s decode
 
-3 token/s writing speed
+3 token/s writing speed maybe 2-5 more if you have a faster drive (6gb/s)
 ```
 
 You would be pretty comfortable if you had 32gb of ram and a 3060 12gb
