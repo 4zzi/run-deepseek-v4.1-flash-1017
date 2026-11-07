@@ -14,7 +14,7 @@ Ryzen 5 7600X
 
 Run the start.sh in your linux environment it has a tune thing, make sure to change stuff in there to point to the models GGUF
 
-Stats for this specific specs (your drive must reach at least 2.5gb of speed):
+Stats for this spec (your drive must reach at least 2.5gb of speed):
 
 ```
 1M window context token
