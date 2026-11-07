@@ -1,4 +1,4 @@
-Run DeepSeek "V4.1 Flash 1017" using a gaming PC, Strata's SSD streaming
+Run DeepSeek "V4.1 Flash 1017" using a gaming PC and Strata's SSD streaming
 
 Specs used (no less):
 
