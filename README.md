@@ -16,7 +16,7 @@ Run the start.sh in your linux environment it has a tune thing
 
 Stats for this specific specs:
 
-1M window context token
+```1M window context token
 
 6 experts 
 
@@ -24,7 +24,7 @@ Vision on
 
 100 token/s decode
 
-3 token/s writing speed
+3 token/s writing speed```
 
 You would be pretty comfortable if you had 32gb of ram and a 3060 12gb
 
