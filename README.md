@@ -1,4 +1,4 @@
-Run DeepSeek "V4.1 Flash 1017" using a gaming PC
+Run DeepSeek "V4.1 Flash 1017" using a gaming PC using Strata
 
 Specs used (no less):
 
