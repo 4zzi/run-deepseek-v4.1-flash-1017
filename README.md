@@ -33,10 +33,7 @@ You would be pretty comfortable if you had 32gb of ram and a 3060 12gb
 
 Note: 
 
-if you look at the models reasoning, it's a little impaired and sounds like shakespeare ("need not overdo", "need concise") 
+If you look at the models reasoning, it's a little impaired and sounds like shakespeare ("need not overdo", "need concise") 
+But the response it writes is somewhat fine
 
-but the response it writes is somewhat fine
-
-can hallucinate and swirl into a loop
-
-run if you want
+Can hallucinate and swirl into a loop I think? once I asked it to create a snake game and it kept on going about ThreeJS WebRenderer
