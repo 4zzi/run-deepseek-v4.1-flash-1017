@@ -1,4 +1,4 @@
-Run DeepSeek "V4.1 Flash 1017" using a gaming PC using Strata
+Run DeepSeek "V4.1 Flash 1017" using a gaming PC, Strata's SSD streaming
 
 Specs used (no less):
 
@@ -9,13 +9,12 @@ Ryzen 5 7600X
 
 16gb of DDR5
 
-1TB of Kingston NV3
+1TB of Kingston NV3 NVME
 ```
 
 Run the start.sh in your linux environment it has a tune thing, make sure to change stuff in there to point to the models GGUF
 
-Stats for this spec (your drive must reach at least 2.5gb of speed):
-
+Stats for this spec (drive speed of 2.5gb):
 ```
 1M window context token
 
