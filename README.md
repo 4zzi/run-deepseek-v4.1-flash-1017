@@ -33,8 +33,6 @@ You would be pretty comfortable if you had 32gb of ram and a 3060 12gb
 
 Note: 
 
-this is IstaDash lab's GCO RCQ Coder version at Q2XXS
-
 if you look at the models reasoning, it's a little impaired and sounds like shakespeare ("need not overdo", "need concise") 
 
 but the response it writes is somewhat fine
