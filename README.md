@@ -12,7 +12,7 @@ Ryzen 5 7600X
 1TB of Kingston NV3
 ```
 
-Run the start.sh in your linux environment it has a tune thing 
+Run the start.sh in your linux environment it has a tune thing, make sure to change stuff in there to point to the models GGUF
 
 Stats for this specific specs (your drive must reach at least 2.5gb of speed):
 
